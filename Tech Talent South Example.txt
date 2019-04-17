@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <title>About Me</title>
+   <meta charset="utf-8">
+  </head>
+<!-- so starts the body of this page -->
+<body>
+<p> About Me </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
